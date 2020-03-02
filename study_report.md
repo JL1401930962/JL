@@ -43,3 +43,4 @@ Push操作把本地库的内容推送到代码托管中心里的远程库
 +  git rm –cached 将文件从暂存区中移除并取消追踪
 +  git commit  将文件从暂存区提交到本地库
 +  git push  推送操作
++  git clone  克隆操作
