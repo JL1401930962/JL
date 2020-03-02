@@ -45,3 +45,5 @@ Push操作把本地库的内容推送到代码托管中心里的远程库
 +  git commit  将文件从暂存区提交到本地库
 +  git push  推送操作
 +  git clone  克隆操作
++  git rm 删除文件
++  git reflog 查看操作日志
